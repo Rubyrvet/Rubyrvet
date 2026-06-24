@@ -9,6 +9,7 @@ Software Engineer
 - PostgreSQL
 - Java
 - Python
+- Expo
 
 ## Featured Project
 - RubyPay CrossBorder Remittance Application
